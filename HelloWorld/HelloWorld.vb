@@ -1,8 +1,8 @@
 ﻿Module HelloWorld
 
     Sub Main()
+        'Write out to console
         Console.WriteLine("HELLO WORLD")
-        Console.Read()
     End Sub
 
 End Module
